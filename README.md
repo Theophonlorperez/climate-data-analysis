@@ -1,12 +1,15 @@
-# 📊 Análise e visualização de dados climáticos em Python (1961–2016) 
+# 📊 Climate Data Analysis and Visualization in Python (1961–2016)
 
-Projeto desenvolvido em **Python** para processar e analisar dados meteorológicos, permitindo:
-- Filtragem de períodos específicos  
-- Exibição de dados de precipitação, temperatura, umidade e vento  
-- Identificação do mês/ano mais chuvoso  
-- Cálculo da média da temperatura mínima (2006–2016)  
-- Geração de gráficos de temperatura com `matplotlib`
+Project developed in Python to process and analyze meteorological data, enabling:
 
-# 👨‍💻 Autor
+- Filtering of specific time periods  
+- Display of precipitation, temperature, humidity, and wind data  
+- Identification of the wettest month/year 
+- Calculation of the average minimum temperature (2006–2016)
+- Generation of temperature charts using `matplotlib`
 
-Theo Phonlor Perez — Projeto acadêmico de Lógica e Programação de Computadores
+# 👨‍💻 Author
+
+Theo Phonlor Perez — Academic project for Logic and Computer Programming
+
+
